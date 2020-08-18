@@ -55,8 +55,8 @@ nitro.on('ready', () => {
   console.log((chalk.red(`                                                    Github: https://github.com/GalackQSM`)));   
   console.log("");                                  
 
-   console.log(`Statistiques globales : \n\nLe bot a un total de ${nitro.guilds.size} serveurs. \nPour un total de ${nitro.users.size} membres. \n\nMessage :\n\u001b[36m${messagetsend}\u001b[0m\n\n\n `)
-  console.log("Connecté en tant que " + nitro.user.id + " | Prefix : " + prefix + " | Nombre de Serveurs "+ nitro.guilds.size +" | Nombres de channels "+ nitro.channels.size +" | Utilisateur totaux "+ nitro.users.size +" | Nombre d'emojis totaux "+ nitro.emojis.size +'');
+   console.log(`Statistiques globales : \n\nLe bot a un total de ${nitro.guilds.cache.size} serveurs. \nPour un total de ${nitro.users.cache.size} membres. \n\nMessage :\n\u001b[36m${messagetsend}\u001b[0m\n\n\n `)
+  console.log("Connecté en tant que " + nitro.user.id + " | Prefix : " + prefix + " | Nombre de Serveurs "+ nitro.guilds.cache.size +" | Nombres de channels "+ nitro.channels.cache.size +" | Utilisateur totaux "+ nitro.users.cache.size +" | Nombre d'emojis totaux "+ nitro.emojis.cache.size +'');
 
    tm.question('\u001b[0mTape \u001b[32mENTRER \u001b[0mpour lancer GalackDM\n\n', (answer) => {
       dmed = "0"
