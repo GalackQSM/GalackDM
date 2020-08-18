@@ -6,8 +6,8 @@
 //  \_____|\__,_|_|\__,_|\___|_|\_\_____/|_|  |_|
 //================================================
 // Crée le: 04/12/2019
-// Crée par: 𝐆𝐚𝐥𝐚𝐜𝐤𝐐𝐒𝐌#0001
-// Serveur Discord: https://discord.gg/DkjJXgZ
+// Crée par: GalackQSM#7926
+// Serveur Discord: https://discord.gg/cAmtjYj
 //================================================
 
 console.clear()
@@ -22,11 +22,11 @@ var tm = readline.createInterface(process.stdin, process.stdout);
 var prefix = ("*");
 
 // TOKEN DU BOT
-nitro.login("NzE1OTI2NjkwMjQ0NTkxNjM0.XtEUsA.cv09fbPFBuegPUuBs4701E4sCV8");
+nitro.login("TOKEN");
 
 
 // Message pub [\n Pour sauter une ligne]
-messagetsend = ("🤖 __Voici DeltaBot votre bot pour votre serveur Discord__ 🤖\n\n> 💥 Un bot surpuissant pour votre serveur\n> 💯  Plus de 160 commandes.\n> ⚙️ AutoRole, Message de bienvenue et plein d'autre encore...\n> 📈 Un classement des invitations...\n> 🌐 Un bot multi-langues.\n> 👦 Système de profil, mariage, réputation et autres.\n> 🤪 Un dashboard connecté au bot.\n> 🧨 En développement tous les jours pour être le meilleur des bots.\n\n> 🔗 Serveur Support: https://discord.gg/cAmtjYj\n> 🔗 Site: https://delta-bot.com/")
+messagetsend = ("Votre pub")
 
 
 // Vitesse
@@ -48,10 +48,11 @@ nitro.on('ready', () => {
   console.log((chalk.cyan(`                                           #####  #    # ###### #    #  ####  #    # ######  #     # `)));
   console.log("");                                  
   console.log((chalk.yellow(`                                                               Crée par GalackQSM!`)));  
-  console.log((chalk.yellow(`                                                              © 2019 GalackQSM, Inc.`))); 
+  console.log((chalk.yellow(`                                                              © 2020 GalackQSM, Inc.`))); 
   console.log("");                                   
-  console.log((chalk.red(`                                                       Discord: https://discord.gg/navanTr`)));   
-  console.log((chalk.red(`                                                    Twitter: https://twitter.com/Galack_dotsh`)));   
+  console.log((chalk.red(`                                                       Discord: https://discord.gg/cAmtjYj`)));   
+  console.log((chalk.red(`                                                    Twitter: https://twitter.com/Galack_QSM`)));   
+  console.log((chalk.red(`                                                    Github: https://github.com/GalackQSM`)));   
   console.log("");                                  
 
    console.log(`Statistiques globales : \n\nLe bot a un total de ${nitro.guilds.size} serveurs. \nPour un total de ${nitro.users.size} membres. \n\nMessage :\n\u001b[36m${messagetsend}\u001b[0m\n\n\n `)
