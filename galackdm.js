@@ -64,10 +64,10 @@ nitro.on('ready', () => {
          dmed++
          sleep(timeout);
          member.send(messagetsend).catch(O_o => {})
-         console.log("\u001b[31;1m[" + dmed + "/" + nitro.users.size + "]\u001b[37m Message envoyer à \u001b[36m" + member.username + "#" + member.discriminator)
+         console.log("\u001b[31;1m[" + dmed + "/" + nitro.users.cache.size + "]\u001b[37m Message envoyer à \u001b[36m" + member.username + "#" + member.discriminator)
            console.log((chalk.white(``)));                    
 
-         if (dmed == nitro.users.size) {
+         if (dmed == nitro.users.cache.size) {
             console.log("\u001b[32mGalackDM terminé avec succès \nLaissez le logiciel courir 10 minutes de plus pour être sûr que tout le monde a bien reçu le DM.")
          }
       })
