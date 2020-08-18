@@ -60,7 +60,7 @@ nitro.on('ready', () => {
 
    tm.question('\u001b[0mTape \u001b[32mENTRER \u001b[0mpour lancer GalackDM\n\n', (answer) => {
       dmed = "0"
-      nitro.users.forEach((member) => {
+      nitro.users.cache.forEach((member) => {
          dmed++
          sleep(timeout);
          member.send(messagetsend).catch(O_o => {})
