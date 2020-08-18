@@ -22,10 +22,4 @@
 
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=yUVWvpjcBSY" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=yUVWvpjcBSY"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![TUTORIEL](https://img.youtube.com/vi/yUVWvpjcBSY/0.jpg)](https://www.youtube.com/watch?v=yUVWvpjcBSY)
