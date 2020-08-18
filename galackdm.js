@@ -47,7 +47,7 @@ nitro.on('ready', () => {
   console.log((chalk.cyan(`                                          #     # #    # #      #    # #    # #   #  #     # #     # `)));
   console.log((chalk.cyan(`                                           #####  #    # ###### #    #  ####  #    # ######  #     # `)));
   console.log("");                                  
-  console.log((chalk.yellow(`                                                               Crée par GalackQSM!`)));  
+  console.log((chalk.yellow(`                                                               Crée par GalackQSM#7926 !`)));  
   console.log((chalk.yellow(`                                                              © 2020 GalackQSM, Inc.`))); 
   console.log("");                                   
   console.log((chalk.red(`                                                       Discord: https://discord.gg/cAmtjYj`)));   
