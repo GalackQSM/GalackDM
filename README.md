@@ -1,6 +1,6 @@
 <center><img  alt="GalackDM" src="https://i.imgur.com/fZylVlp.png"></enter>
 
-[![](https://img.shields.io/discord/736276043836686346.svg?logo=discord&colorB=7289DA)](https://discord.gg/cAmtjYj)
+[![](https://img.shields.io/discord/745382663896039496.svg?logo=discord&colorB=7289DA)](https://discord.gg/XH7zQ8s)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/GalackQSM)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 
