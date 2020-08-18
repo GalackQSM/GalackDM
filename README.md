@@ -5,17 +5,17 @@
 
 # GALACKDM Installation
 
-1- Télécharger le git complet
-2- Ouvrer le dossier GalackDM avec CMD
-3- Faite `npm install`
-4- Ensuite double-cliquer sur `start.bat`
-5- Entre le mot de passe GalackDM
+* Télécharger le git complet<br>
+* Ouvrer le dossier GalackDM avec CMD<br>
+* Faite `npm install`<br>
+* Ensuite double-cliquer sur `start.bat`<br>
+* Entre le mot de passe GalackDM<br>
 
 ### GALACKDM Configuration
-1- Ouvrer le fichier `GalackDM.js`
-2- A la ligne 25 mettez votre token du bot DM
-3- A la ligne 29 mettez votre pub
-4- Appuyer sur entrer pour envoyer le message 
+* Ouvrer le fichier `GalackDM.js`<br>
+* A la ligne 25 mettez votre token du bot DM<br>
+* A la ligne 29 mettez votre pub<br>
+* Appuyer sur entrer pour envoyer le message <br>
 
 ### GALACKDM copyright
 © 2020 GalackQSM
