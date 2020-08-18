@@ -9,7 +9,6 @@
 * Ouvrer le dossier GalackDM avec CMD<br>
 * Faite `npm install discord.js`, `npm install chalk`, `npm install mkdirp`, `npm install system-sleep`<br>
 * Ensuite double-cliquer sur `start.bat`<br>
-* Entre le mot de passe GalackDM<br>
 
 ### GALACKDM Configuration
 * Ouvrer le fichier `GalackDM.js`<br>
