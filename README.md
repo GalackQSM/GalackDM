@@ -22,4 +22,10 @@
 
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/yUVWvpjcBSY" frameborder="0" allowfullscreen></iframe>
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=yUVWvpjcBSY" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=yUVWvpjcBSY"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
