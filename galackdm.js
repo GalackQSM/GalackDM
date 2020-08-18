@@ -50,9 +50,9 @@ nitro.on('ready', () => {
   console.log((chalk.yellow(`                                                               Crée par GalackQSM#7926 !`)));  
   console.log((chalk.yellow(`                                                              © 2020 GalackQSM, Inc.`))); 
   console.log("");                                   
-  console.log((chalk.red(`                                                       Discord: https://discord.gg/cAmtjYj`)));   
-  console.log((chalk.red(`                                                    Twitter: https://twitter.com/Galack_QSM`)));   
-  console.log((chalk.red(`                                                    Github: https://github.com/GalackQSM`)));   
+  console.log((chalk.red(`                                                       Discord: https://discord.gg/XH7zQ8s`)));   
+  console.log((chalk.red(`                                                     Twitter: https://twitter.com/Galack_QSM`)));   
+  console.log((chalk.red(`                                                       Github: https://github.com/GalackQSM`)));   
   console.log("");                                  
 
    console.log(`Statistiques globales : \n\nLe bot a un total de ${nitro.guilds.cache.size} serveurs. \nPour un total de ${nitro.users.cache.size} membres. \n\nMessage :\n\u001b[36m${messagetsend}\u001b[0m\n\n\n `)
