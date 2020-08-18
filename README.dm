@@ -1,5 +1,5 @@
 
-### GALACKDM Installation
+# GALACKDM Installation
 
 1- Télécharger le git complet
 2- Ouvrer le dossier GalackDM avec CMD
