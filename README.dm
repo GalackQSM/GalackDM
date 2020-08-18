@@ -10,7 +10,7 @@
 ### GALACKDM Configuration
 1- Ouvrer le fichier `GalackDM.js`
 2- A la ligne 25 mettez votre token du bot DM
-3- A la ligne 29 metter votre pub
+3- A la ligne 29 mettez votre pub
 4- Appuyer sur entrer pour envoyer le message 
 
 ### GALACKDM copyright
