@@ -22,4 +22,10 @@
 
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 
+## Liens
+
+*   [Discord](https://discord.gg/XH7zQ8s)
+*   [Twitter](https://twitter.com/Galack_QSM)
+*   [Github](https://github.com/GalackQSM/)
+
 [![TUTORIEL](https://img.youtube.com/vi/yUVWvpjcBSY/0.jpg)](https://www.youtube.com/watch?v=yUVWvpjcBSY)
