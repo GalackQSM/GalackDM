@@ -7,7 +7,7 @@
 //================================================
 // Crée le: 18/08/2020
 // Crée par: GalackQSM#7926
-// Serveur Discord: https://discord.gg/cAmtjYj
+// Serveur Discord: https://discord.gg/XH7zQ8s
 //================================================
 
 console.clear()
