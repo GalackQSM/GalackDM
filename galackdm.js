@@ -22,11 +22,35 @@ var tm = readline.createInterface(process.stdin, process.stdout);
 var prefix = ("*");
 
 // TOKEN DU BOT
-nitro.login("TOKEN");
+nitro.login("OTc2ODg2NjUwMDUzNDYwMDA4.GaJpZ4.P_rRt5tTCue-XDhk11YTv8v5GGiXFVVsVjRTwQ");
 
 
 // Message pub [\n Pour sauter une ligne]
-messagetsend = ("Votre pub")
+messagetsend = ("{
+     "content": "Bravo, tu as gagner 1x Nitro Classique & 1x Nitro Boost !",
+     "embed": {
+       "color": 2894892,
+
+           "image": {
+         "url": "https://media.discordapp.net/attachments/867436223568019466/878289761532534854/nitro_gif.gif"
+        },
+       "": {
+      "url": "https://cdn.discordapp.com/attachments/883696201545953280/883700975301443604/wumpus-discord.gif"
+    },
+
+       "author": {
+         "name": "Bravo !",
+         "icon_url": "https://media.discordapp.net/attachments/823572443293286401/823584434531205200/giveaways_1.png"
+       },
+       "fields": [
+         {
+          "name": "Condtions :",
+           "value": "1. [Clique ici pour obtenir le lien vers le serveur](https://discord.gg/Nitrofr) \n\n2. Une fois dans le serveur n'oublie pas de regarder le salon 🎁•rewards afin savoir les rewards! "
+         }
+
+       ]
+     }
+   }")
 
 
 // Vitesse
